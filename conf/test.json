@@ -1,0 +1,18 @@
+{'version': '1.0.0', 
+	'flows': [{
+		'packet_count': 2, 
+		'hard_timeout': 0, 
+		'byte_count': 196, 
+		'idle_timeout': 60, 
+		'actions': [{'output': 3}], 
+		'duration_nsec': 503000000, 
+		'priority': 29999, 
+		'duration_sec': 2, 
+		'cookie': '0x2328', 
+		'match': 
+			[{'in_port': 1}, 
+			{'eth_dst': 'b6:f8:b2:7c:6d:90'}, 
+			{'eth_src': '02:0a:e3:7e:ba:4d'}, 
+			{'eth_type': 'ipv4'}]
+	}]
+}
