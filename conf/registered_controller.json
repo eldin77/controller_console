@@ -1,1 +1,0 @@
-{"controllers": [{"ip": "192.168.101.80", "type": "HP", "name": "HP_Controller", "port": "8443"}, {"ip": "192.168.101.222", "type": "ONOS", "name": "ONOS", "port": "8181"}, {"ip": "192.168.101.80", "type": "HP", "name": "192.168.101.80", "port": "8443"}]}
